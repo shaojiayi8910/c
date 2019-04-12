@@ -28,7 +28,8 @@ int main ()
 3
 12 34 -5
 输出样例：
-41int Sum ( int List[], int N )
+
+int Sum ( int List[], int N )
 {
 int i,sunshine=0;
 for  (i=0;i<N;i++)
